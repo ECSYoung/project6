@@ -22,7 +22,7 @@ class Header extends Component {
         return (
             <header>
                 <nav className="wrapper">
-                    <a href= "https://ethicalmakeupc25.github.io/project6/"><h1>Ethical Makeup</h1></a>
+                    <a href= "https://ecsyoung.github.io/project6/#/project6//"><h1>Ethical Makeup</h1></a>
                     {/* <Link to={{pathname:"/project6/"}}><h1>Ethical Makeup</h1></Link> */}
                     {
                         //null is falsy .: if props.user is null, show login
